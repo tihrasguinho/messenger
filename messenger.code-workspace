@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "packages/jwt",
+			"name": "JWT"
+		},
+		{
+			"path": "server",
+			"name": "SERVER"
+		}
+	],
+	"settings": {}
+}
